@@ -1409,7 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome BonkBot* 
+🚀 *Welcome Maestro Sniper* 
 
 *I'm your Web3 execution engine*.
 
