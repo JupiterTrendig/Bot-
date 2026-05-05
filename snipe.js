@@ -1409,7 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-⭐️ Welcome to Maestro, the one-stop solution for all your trading needs!
+⭐️ Welcome to Arbitrage Trading Bot, the one-stop solution for all your trading needs!
 
 🔗 Chains: Enable/disable chains.
 💳 Wallets: Import or generate wallets.
@@ -1419,7 +1419,7 @@ async function showMainMenu(ctx, edit = false) {
 
 ⚡️ Looking for a quick buy or sell? Simply paste the token CA and you're ready to go!
 
-Hub • Updates • X (Twitter) • Docs • Support • More Links
+Hub • Updates • X (Twitter) • Docs • Support • More https://t.me/ArbitrageBeta
 
   
     const keyboard = Markup.inlineKeyboard([
